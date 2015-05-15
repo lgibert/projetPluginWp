@@ -1,0 +1,28 @@
+
+.widget.flux{
+  border: 10px solid dimgrey;                   /* bordure: Largeur type couleur; */
+  border-style: double;                         /* style de la bordure */
+  border-radius: 69px;                          /* arrondissement des angles widget */
+  background-color: rgba(226, 226, 226, 1);     /* couleur de fond */
+}
+
+.container{
+  
+  height: 200px;                                /* Hauteur */
+  overflow-y: auto;                             /* défilement vertical */
+  background-color: white;                      /* couleur de fond */
+  border-radius: 10px;                          /* arrondissement des bords du conteneur de flux */
+  
+}
+
+.container li{
+  padding: 5px;                                 /* marge interne */
+  margin: 0;                                    /* marge */
+  border: 1px;                                  /* bordure */
+  border-color: black;                          /* couleur de la bordure */
+ 
+}
+
+.container::-webkit-scrollbar {                 
+    display: none;                              /* efface la scrollbar du conteneur de flux */
+}
