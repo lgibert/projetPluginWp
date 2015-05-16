@@ -10,7 +10,7 @@
 .conteneur{
   
     height: 200px;                                /* Hauteur */
-    overflow-y: auto;                             /* défilement vertical */
+    overflow-y: auto;                             /* barre scroll vertical si besoin */
     background-color: #ffffff;                    /* couleur de fond de l'affichage des flux*/
     border-radius: 10px;                     /* arrondissement des bords du conteneur de flux */
     width:100% !important;
