@@ -51,9 +51,9 @@ Custom Wp_easy_RSS :
 It's easily for customize the plugin, look :
 
 * Go to your Wordpress project > wp-content > plugins > Wp_easy_RSS
-* here you have 2 folder, one for jquery and one for CSS
-* if you want custom jquery go in the folder "jQuery" (but warning it's system scroll)
-* if you want custom CSS go in the folder "style" (make your choice colors, background, ...)
+* Here you have 2 folder, one for jquery and one for CSS
+* If you want custom jquery go in the folder "jQuery" (but warning it's system scroll)
+* If you want custom CSS go in the folder "style" (make your choice colors, background, ...)
 
 
 Have a nice day :)
