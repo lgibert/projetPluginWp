@@ -44,8 +44,8 @@ class flux extends WP_widget{
 //vérification si l'objet est bien créé	
 		if ( ! is_wp_error( $feed ) ) : 
 
-// nombre de lien affiché
-    $maxitems = $feed->get_item_quantity( 5 ); 
+// nombre de lien affiché(ici augmenter la valeur entre parenthèse si vous voulez avoir plus de résultats)
+    $maxitems = $feed->get_item_quantity( 10 ); 
 
 // Construction d'un tableau de tous les items et démarre avec le premier élément (0)
     $rss_items = $feed->get_items( 0, $maxitems );
@@ -53,7 +53,7 @@ class flux extends WP_widget{
 endif;
 ?>
 
-<ul class="container">
+<ul class="conteneur">
     <?php if ( $maxitems == 0 ) : ?>
         <li><?php _e( 'No items', 'my-text-domain' ); ?></li>
     <?php else : ?>
