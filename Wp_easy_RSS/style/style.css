@@ -25,7 +25,7 @@
     display: none;                              /* efface la scrollbar du conteneur de flux */
 }
 .themeAdjust{
-    overflow: hidden;                           /* dépassements masqués */
-    margin: 20px 0% 19px 0% !important;         /* marge Top Right Bottom Left */
-    width: 100% !important;                     /* largeur */
+    overflow: hidden;
+    margin: 20px 0% 19px 0% !important;
+    width: 100% !important;
 }
