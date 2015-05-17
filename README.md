@@ -27,7 +27,7 @@ Installation:
 
 * On your computer go to the folder projetPluginWp
 * Zip the folder Wp_easy_RSS
-* On Wordpress back office, click on "Plugins"
+* In Wordpress back office, click on "Plugins"
 * On top, click on button "add"
 * On top, click on button "set an extension online"
 * Now, select Wp_easy_RSS.zip and click "instal now"
