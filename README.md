@@ -2,7 +2,7 @@
 # Wp_easy_RSS
 Plugin RSS for Wordpress
 
-* gh-pages : http://lgibert.github.io/projetPluginWp/
+- gh-pages : http://lgibert.github.io/projetPluginWp/
 
 Installation:
 -------------
