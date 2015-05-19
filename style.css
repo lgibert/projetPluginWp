@@ -1,5 +1,5 @@
 header{
-    background-image: url('/presentation_widget_wp/img/wordpress.jpg');
+    background-image: url('img/wordpress.jpg');
     background-size: cover;
     background-color: #88673a;
 }
@@ -76,7 +76,7 @@ span{
 
 .conteneur{
     background: #E7E4E1;
-    background-image: url(/presentation_widget_wp/img/wordpress_liquid.jpg);
+    background-image: url(img/wordpress_liquid.jpg);
     background-size: cover;
     border-radius: 10px;
     padding-bottom: 10px;
@@ -117,7 +117,7 @@ desc{
 }
 
 .footerBackground{
-    background-image: url(/presentation_widget_wp/img/wordpress.jpg);
+    background-image: url(img/wordpress.jpg);
     background-size: cover;
 }
 
